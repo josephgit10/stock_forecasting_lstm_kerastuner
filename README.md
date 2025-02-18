@@ -1,6 +1,6 @@
 # Advanced Stock Forecasting with LSTM and Keras Tuner
 
-This project is a robust, end-to-end stock forecasting pipeline designed for advanced research (post-master’s degree level). It leverages historical stock data, technical indicators, and hyperparameter tuning to build a predictive LSTM model. The project includes modules for data retrieval, feature engineering, data preprocessing, model tuning, training, evaluation, and persistence.
+This project is a robust, end-to-end stock forecasting pipeline. It leverages historical stock data, technical indicators, and hyperparameter tuning to build a predictive LSTM model. The project includes modules for data retrieval, feature engineering, data preprocessing, model tuning, training, evaluation, and persistence.
 
 ## Project Overview
 
