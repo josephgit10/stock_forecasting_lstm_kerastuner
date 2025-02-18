@@ -1,4 +1,4 @@
-# Advanced Stock Forecasting with LSTM and Keras Tuner
+# Stock Forecasting with LSTM and Keras Tuner
 
 This project is a robust, end-to-end stock forecasting pipeline. It leverages historical stock data, technical indicators, and hyperparameter tuning to build a predictive LSTM model. The project includes modules for data retrieval, feature engineering, data preprocessing, model tuning, training, evaluation, and persistence.
 
@@ -29,13 +29,13 @@ The goal of this project is to forecast stock prices (using AAPL as an example) 
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/stock_forecasting_advanced.git
-   cd stock_forecasting_advanced
+   git clone https://github.com/yourusername/stock_forecasting_lstm_kerastuner.git
+   cd stock_forecasting_lstm_kerastuner
 
 2. **Create and Activate a Conda Environment:**
 
-    conda create --name stock_forecasting_advanced python=3.8
-    conda activate stock_forecasting_advanced
+    conda create --name stock_forecasting_lstm_kerastuner python=3.8
+    conda activate stock_forecasting_lstm_kerastuner
 
 3. **Install Dependencies:**
     pip install -r requirements.txt
