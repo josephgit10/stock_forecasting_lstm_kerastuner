@@ -34,10 +34,13 @@ The goal of this project is to forecast stock prices (using AAPL as an example) 
 
 2. **Create and Activate a Conda Environment:**
 
+    ```bash
     conda create --name stock_forecasting_lstm_kerastuner python=3.8
     conda activate stock_forecasting_lstm_kerastuner
 
 3. **Install Dependencies:**
+
+   ```bash
     pip install -r requirements.txt
 
 ## Configuration
